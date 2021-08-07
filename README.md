@@ -7,7 +7,7 @@
 
 ## Tech Stack
  ### Server
-  - pyhton, Flask, sqlite
+  - Pyhton, Flask, sqlite
 
 ![image](https://user-images.githubusercontent.com/76929823/126203938-39fc51ee-0df8-47e1-894c-e9d73118aa60.png)
 
